@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{775A0570-EB09-4723-9FD7-1A6CB6D8A7D2}|Bai_002\\Bai_002.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_002\\Bai_002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{775A0570-EB09-4723-9FD7-1A6CB6D8A7D2}|Bai_002\\Bai_002.vcxproj|solutionrelative:Bai_002\\Bai_002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20B57905-EBF0-41A5-8784-9E9EE23F796C}|Bai_001\\Bai_001.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_001\\Bai_001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{20B57905-EBF0-41A5-8784-9E9EE23F796C}|Bai_001\\Bai_001.vcxproj|solutionrelative:Bai_001\\Bai_001.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -51,12 +55,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai_002.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_002\\Bai_002.cpp",
+              "RelativeDocumentMoniker": "Bai_002\\Bai_002.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_002\\Bai_002.cpp",
+              "RelativeToolTip": "Bai_002\\Bai_002.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T04:14:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai_001.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_001\\Bai_001.cpp",
               "RelativeDocumentMoniker": "Bai_001\\Bai_001.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_001\\Bai_001.cpp",
               "RelativeToolTip": "Bai_001\\Bai_001.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-04T03:55:48.985Z",
               "EditorCaption": ""
