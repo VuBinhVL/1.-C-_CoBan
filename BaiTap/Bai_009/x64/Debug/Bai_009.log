@@ -1,0 +1,3 @@
+﻿  Bai_009.cpp
+C:\Users\Admin\source\repos\BaiTapCoBanC++\BaiTap\Bai_009\Bai_009.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bai_009.vcxproj -> C:\Users\Admin\source\repos\BaiTapCoBanC++\BaiTap\x64\Debug\Bai_009.exe
