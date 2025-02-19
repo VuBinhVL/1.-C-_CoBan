@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B51F9CE-317D-40EB-A660-45D960484347}|Bai_010\\Bai_010.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_010\\Bai_010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5B51F9CE-317D-40EB-A660-45D960484347}|Bai_010\\Bai_010.vcxproj|solutionrelative:Bai_010\\Bai_010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{545A3F76-44D8-44E1-99E0-7678D26F62EC}|Bai_038\\Bai_038.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_038\\Bai_038.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{545A3F76-44D8-44E1-99E0-7678D26F62EC}|Bai_038\\Bai_038.vcxproj|solutionrelative:Bai_038\\Bai_038.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088B865B-0C8E-4108-AA08-E1BA4829D1A5}|Bai_009\\Bai_009.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_009\\Bai_009.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{088B865B-0C8E-4108-AA08-E1BA4829D1A5}|Bai_009\\Bai_009.vcxproj|solutionrelative:Bai_009\\Bai_009.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96075A1A-260E-4A1D-9CC9-8B916D2FF0C4}|Bai_008\\Bai_008.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_008\\Bai_008.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{96075A1A-260E-4A1D-9CC9-8B916D2FF0C4}|Bai_008\\Bai_008.vcxproj|solutionrelative:Bai_008\\Bai_008.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E5606-03D3-43DA-8B36-9BF8FC84A3DD}|Bai_007\\Bai_007.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_007\\Bai_007.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF7E5606-03D3-43DA-8B36-9BF8FC84A3DD}|Bai_007\\Bai_007.vcxproj|solutionrelative:Bai_007\\Bai_007.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67294761-59C0-4CC5-BF95-3B1211B5A8A6}|Bai_006\\Bai_006.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_006\\Bai_006.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67294761-59C0-4CC5-BF95-3B1211B5A8A6}|Bai_006\\Bai_006.vcxproj|solutionrelative:Bai_006\\Bai_006.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{38D8DD69-7E77-4AD7-8012-86D7822B6BCF}|Bai_037\\Bai_037.vcxproj|C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_037\\Bai_037.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38D8DD69-7E77-4AD7-8012-86D7822B6BCF}|Bai_037\\Bai_037.vcxproj|solutionrelative:Bai_037\\Bai_037.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,72 +53,29 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai_010.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_010\\Bai_010.cpp",
-              "RelativeDocumentMoniker": "Bai_010\\Bai_010.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_010\\Bai_010.cpp",
-              "RelativeToolTip": "Bai_010\\Bai_010.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAAeAAAAAAAAAA==",
+              "Title": "Bai_038.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_038\\Bai_038.cpp",
+              "RelativeDocumentMoniker": "Bai_038\\Bai_038.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_038\\Bai_038.cpp",
+              "RelativeToolTip": "Bai_038\\Bai_038.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T14:57:49.152Z",
+              "WhenOpened": "2025-02-19T16:23:31.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bai_009.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_009\\Bai_009.cpp",
-              "RelativeDocumentMoniker": "Bai_009\\Bai_009.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_009\\Bai_009.cpp",
-              "RelativeToolTip": "Bai_009\\Bai_009.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAKAAAAAAAAAA==",
+              "Title": "Bai_037.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_037\\Bai_037.cpp",
+              "RelativeDocumentMoniker": "Bai_037\\Bai_037.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_037\\Bai_037.cpp",
+              "RelativeToolTip": "Bai_037\\Bai_037.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T14:50:00.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bai_008.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_008\\Bai_008.cpp",
-              "RelativeDocumentMoniker": "Bai_008\\Bai_008.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_008\\Bai_008.cpp",
-              "RelativeToolTip": "Bai_008\\Bai_008.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T14:45:09.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bai_006.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_006\\Bai_006.cpp",
-              "RelativeDocumentMoniker": "Bai_006\\Bai_006.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_006\\Bai_006.cpp",
-              "RelativeToolTip": "Bai_006\\Bai_006.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T14:42:54.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai_007.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_007\\Bai_007.cpp",
-              "RelativeDocumentMoniker": "Bai_007\\Bai_007.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapCoBanC\u002B\u002B\\BaiTap\\Bai_007\\Bai_007.cpp",
-              "RelativeToolTip": "Bai_007\\Bai_007.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T14:38:32.365Z",
+              "WhenOpened": "2025-02-19T16:21:36.1Z",
               "EditorCaption": ""
             }
           ]
